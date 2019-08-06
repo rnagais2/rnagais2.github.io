@@ -95,7 +95,10 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  links:
+    - https://www.linkedin.com/in/ryo-nagaishi/
+    - https://www.instagram.com/intothecastle2016/
+      # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -109,8 +112,8 @@ analytics:
 author:
   name             : "Ryo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ryo"
-  location         : "Munich"
+  bio              : "留学、就職についてのあれこれ"
+  location         : "ミュンヘン"
   email            :
   links:
     - label: "Email"
@@ -152,6 +155,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/intothecastle2016/"
       # url:
 
 
