@@ -4,7 +4,7 @@ permalink: /application/
 title: "海外大学院出願ー虎の巻"
 author_profile : true
 header:
-  image: "/images/IMGP0327.jpg"
+  image: "/images/IMGP0327.JPG"
 ---
 
 {% include base_path %}
