@@ -3,7 +3,7 @@ title: "このブログについて"
 date: 2019-08-02
 tags: [ドイツ]
 header:
-  image: "/images/IMGP1666.jpg"
+  image: "/images/このブログについて/IMGP1666.jpg"
 excerpt: "Introduction"
 ---
 
