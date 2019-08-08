@@ -111,7 +111,7 @@ analytics:
 # Site Author
 author:
   name             : "Ryo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/portfolio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "留学、就職についてのあれこれ"
   location         : "ミュンヘン"
   email            :
