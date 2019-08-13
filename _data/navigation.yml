@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "About"
+  - title: "ABOUT"
     url: /about/
-  - title: "Application"
-    url: /application/
+  - title: "HOW TO APPLY TO GRAD SCHOOL"
+    url: /how-to-apply-to-grad-school/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
