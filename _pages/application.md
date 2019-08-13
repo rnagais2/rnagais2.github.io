@@ -6,21 +6,12 @@ author_profile : true
 header:
   image: "/images/IMGP0327.JPG"
 ---
-<link href="/assets/css/application.css" rel="stylesheet"></link>
-
-{% include base_path %}
-{% include group-by-array collection=site.posts field="tags" %}
-
-{% for tag in group_names %}
-  {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
-  {% for post in posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endfor %}
-
-
-{content}
+<!DECOTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="stylesheet.css">
+  </head>
 
 昨今、一流大学院を経た大先輩諸氏によって、誰でも気軽に留学に出られるようになった。
 
@@ -146,7 +137,7 @@ header:
 
 しかしよほど事がない限り、自身の研究を前もって知り、大学４年の間に特定の教授に狙いを付けている事は稀である。その場合、1~3のどれを優先べきかといえば、やはり深くあなたのことを理解して下さる方が良いであろう。研究内容・性格を理解し、場合によってはドラフトなるものを書き上げて共に推敲してくれるかもしれない。推薦状の一般的なストリーリーラインは以下の通りである。
 
-<dev class="box1"> 
+<div class="box1">
 　・初めに…：
 
 私が○○さんを推薦することを光栄に思うこと（I am pleasured to recommend ○○~）、本人と推薦人との関係（論文担当、同部署の上司など）、どの程度、本人を知りえているのかを強調する。
@@ -170,7 +161,7 @@ header:
 　・終わりに…：
 
 推薦人からの最後の一押し（I am confident that he is qualified to successfully~）。
-</dev>
+</div>
 
 あなたはそんなに自分をヨイショしたものを教授/上司に求め、その上署名までもらうとは、なんて厚顔無恥なんだと思うかもしれない。しかし就活然り、ビジネス然り、卒業以来顔を合わせる同窓会での旧友然り、なににしたってヨイショしておいて損はないのだ。
 
