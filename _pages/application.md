@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /how-to-apply-to-grad-school/
+permalink: how-to-apply-to-grad-school/
 title: "海外大学院出願ー虎の巻"
 author_profile : true
 header:
