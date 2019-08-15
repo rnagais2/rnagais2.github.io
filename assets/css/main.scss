@@ -7,6 +7,22 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+html {
+  font-size: 10px; // change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 16px; // change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px; // change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px; // change to whatever
+  }
+}
+
 .box5 {
    padding: 0.5em 1em;
    margin: 2em 0;
@@ -15,20 +31,4 @@
 .box5 p {
    margin: 0;
    padding: 0;
-}
-
-html {
-  font-size: 10px; // change to whatever
-
-  @include breakpoint($medium) {
-    font-size: 18px; // change to whatever
-  }
-
-  @include breakpoint($large) {
-    font-size: 20px; // change to whatever
-  }
-
-  @include breakpoint($x-large) {
-    font-size: 22px; // change to whatever
-  }
 }
