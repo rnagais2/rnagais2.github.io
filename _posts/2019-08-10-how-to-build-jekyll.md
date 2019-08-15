@@ -21,3 +21,19 @@ Windows
 
 
 こうした方がもっと便利だよ！とかあったら嬉しいです。
+
+# H1 Heading
+
+## H2 Heading
+
+### H3 Heading
+
+以下、文章サンプル
+
+Here's some basic text.
+
+And here's some *italics*
+
+Here's some **bold** text.
+
+What about a [link](https://github.com/dataoptimal)?
