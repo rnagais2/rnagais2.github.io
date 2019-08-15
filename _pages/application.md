@@ -7,6 +7,8 @@ header:
   image: "/images/IMGP0327.JPG"
 ---
 
+<link href="{{site.baseurl}}/assets/css/main.scss" rel="stylesheet">
+
 昨今、海外大学院を経た大先輩諸氏のおかげで、誰でも気軽に留学について触れられるようになった。
 
 また、空港に行けば、まるで泉岳寺行き快速電車(注1)のようにドバイ経由ベルリン、ミュンヘン経由ロンドン行きのフライト情報が飛び込んでくる。
