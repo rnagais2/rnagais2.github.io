@@ -1,10 +1,10 @@
 ---
-layout: archive
-permalink: /application/
 title: "学生ビザを延長したこと"
-author_profile : true
+date: 2018-11-01
+tags: [ビザ]
 header:
-  image: "/images/IMGP0327.JPG"
+  image:　"/images/IMGP0327.JPG"
+excerpt: ビザ延長云々
 ---
 浪人が決まった翌朝、私は勇み足で書店の高校参考書コーナーに向かっていた。立ち読みしながら、合格の秘訣を読み漁った。進研ゼミからZ会、駿台から東進ゼミナールにいたるまで両手いっぱいに抱えていた。ポレポレ、マドンナ、システム現代文。。。
 
