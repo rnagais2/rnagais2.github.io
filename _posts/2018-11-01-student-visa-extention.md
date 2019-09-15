@@ -55,7 +55,6 @@ excerpt: ビザ延長云々
 <div class="box5">
 <p>Mietvertrag(賃貸契約書)</p>
 
-
 <p>Zwischen                (Vermieter*in)　<=貸した人 </p>
 <p>und                     (Mieter*in).<=借りた人</p>
 
