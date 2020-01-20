@@ -26,8 +26,8 @@ excerpt: 留学云々
 ギリシャ人：「えっと、じゃあ古代ギリシャ文字が良いのかな？」
 
 ---------------------
-
-![TUM](/images/MLSEP-Diversity/IMGP1532.JPG "3年通ったが、結局、この銅像の意味をしることは無かった。無くても卒業できた。")
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/MLSEP-Diversity/IMGP1532.jpg?raw=true">
+3年通ったが、結局、この銅像の意味をしることは無かった。無くても卒業できた。
 
 私の通うミュンヘン工科大学の修士コースLife Science Economy and Policy（通称 MLSEP）は全て授業が英語で行われる国際コースである。
 
