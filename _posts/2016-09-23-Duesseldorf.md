@@ -37,4 +37,4 @@ excerpt: 生活云々
 
 　夏のデュッセルドルフにお越しの際にはこちらの郊外Meerbuschにある図書館を強くお勧めしたい。
 
-![Bibliothek](/images/Duesseldorf/IMGP0296.JPG "幾何学的な形をした図書館")
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/Duesseldorf/IMGP0296.jpg?raw=true">
