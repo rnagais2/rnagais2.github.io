@@ -27,7 +27,9 @@ excerpt: 留学云々
 
 ---------------------
 
-![TUM](/images/MLSEP-Diversity/IMGP1532.JPG "3年通ったが、結局、この銅像の意味をしることは無かった。無くても卒業できた。")
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/MLSEP-Diversity/IMGP1532.jpg?raw=true">
+
+3年通ったが、結局、この銅像の意味をしることは無かった。無くても卒業できた。
 
 私の通うミュンヘン工科大学の修士コースLife Science Economy and Policy（通称 MLSEP）は全て授業が英語で行われる国際コースである。
 
@@ -116,7 +118,9 @@ excerpt: 留学云々
 
 街並みだって素晴らしいし、物価は確かに高いが、外食を減らせば東京と支出だってそんなに変わらない。じゃああなたはどうなんだって？御多分に漏れず、私もそんなミュンヘンに魅了されてしまっている一人なのだ。
 
-![BOKE](/images/MLSEP-Diversity/IMGP1542.JPG "ぼかしを使った写真。むかしぼかしに特化したカメラがちょっとはやってましたね。私の中で。")
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/MLSEP-Diversity/IMGP1542.jpg?raw=true">
+
+ぼかしを使った写真。むかしぼかしに特化したカメラがちょっとはやってましたね。私の中で。
 
 ---------------------
 アゼルバイジャン人：「じゃあインド・ヨーロッパ祖語はどうだろう。ヨーロッパ人、イラン人、あと北部インド人みんなが理解できるわ。」

@@ -35,6 +35,6 @@ excerpt: 生活云々
 
 ![Deutsch](/images/Duesseldorf/IMGP0295.JPG "こっちの人ってこういう中太りのふくよかなひとが多いです。")
 
-　夏のデュッセルドルフにお越しの際にはこちらの郊外Meerbuschにある図書館を強くお勧めしたい。
+海を越え、イスタンブールを越える。椅子の形、本棚の形、屋根の形、窓の形、丸みや角張を帯びる模様がやや日本と違う。ここの図書館はオレンジを基調とした幾何学的な形が連なっていた。四角いオレンジがあってもいいんじゃないかと思っていたら眠りに落ちていた。
 
-![Bibliothek](/images/Duesseldorf/IMGP0296.JPG "幾何学的な形をした図書館")
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/Duesseldorf/IMGP0296.jpg?raw=true">
