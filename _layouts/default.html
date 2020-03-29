@@ -19,7 +19,9 @@
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
     {% include analytics.html %}
-
+    {% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
     <div class="initial-content">
       {{ content }}
     </div>
