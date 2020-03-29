@@ -1,14 +1,5 @@
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-157507096-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'UA-157507096-1');
-  </script>
 {% if jekyll.environment == 'production' and site.analytics.provider and page.analytics != false %}
-<!-- Global site tag (gtag.js) - Google Analytics -->
+
 {% case site.analytics.provider %}
 {% when "google" %}
   {% include /analytics-providers/google.html %}
