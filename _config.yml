@@ -105,7 +105,7 @@ analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : "UA-157507096-1"
-    anonymize_ip         : true # true, false (default)
+    anonymize_ip         : false # true, false (default)
 
 # Site Author
 author:
