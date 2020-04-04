@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ryo"
+title                    : "ながし"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ryo"
+name                     : "ながし"
 description              : "Blog"
-url                      : "https://ryo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -109,7 +109,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ryo"
+  name             : "ながし"
   avatar           : "/images/portfolio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "留学、就職についてのあれこれ"
   location         : "ミュンヘン"
