@@ -7,10 +7,7 @@ header:
 excerpt: 生活云々
 ---
 
-![Maßbier](/images/Octberfest/IMPGa.JPG "ひとのこぶしが五つははいるであろうおおきなぐらす")
-
-
-
+<img src="/images/Octberfest/IMPGa.JPG" width="300" height="">
 
 ミュンヘンはドイツ南部地方にある大都市だ。
 
