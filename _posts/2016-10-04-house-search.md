@@ -11,7 +11,7 @@ excerpt: 生活云々
 
 　それでもミュンヘンは大都市だ。多少値は張っても大学の寮に住んでも致し方ない。以下はそんな淡い想いを抱いた私と住まい探しの闘争記録である。
 
-![Last Samurai](/images/house/Samurai.jpeg "ラストサムライより抜粋")
+<img src="https://media.giphy.com/media/8ccXcA74ufMBQAR2oq/giphy.gif" width="300" height="">
 
 
 1. 初期～大學寮への申し込み～
@@ -41,7 +41,7 @@ excerpt: 生活云々
 
 応募20件目にして、ついに部屋が空いていますよとの文字が！しかし、日本からすぐに部屋の見学に来てくれと言われ、断念。
 
-![Sad](/images/house/Sad.gif　"Giphyより抜粋")
+<img src="https://media.giphy.com/media/wloGlwOXKijy8/giphy.gif" width="300" height="200" />
 
 3. 中後期～前倒しドイツ入国決意～
 
@@ -51,7 +51,7 @@ excerpt: 生活云々
 
 結果、試行錯誤を重ね送り付ける自己紹介メールの私はイエスキリストのように寛大で語学堪能、そして友人に囲まれた華やかな写真と個人情報垂れ流しのものへと変容する。
 
-![Jesus](/images/house/Jesus.gif　"ザ・シンプソンズより抜粋")
+<img src="https://media.giphy.com/media/3KEJl20q5ggBW/giphy.gif" width="300" height="200" />
 
 4. 過渡期～挫きそしてミュンヘンへ～
 
@@ -60,7 +60,7 @@ excerpt: 生活云々
 
 返事の無い日が続くにつれ、徐々に不安に苛まれる。ビールは夏の暑い時期に飲むべきであり、何故オウガストフェストやジュライフェストにしないのかといったくだらない論ばかり考えるようになり挫折。心の安寧を求め、デュッセルドルフを離れ一度静かな住まいに向かう。遠くに見える気球を眺めつつ、ノマド的留学生活もありかなという邪念がよぎるも改心。
 
-![Matsuoka](/images/house/Matsuoka.gif　"松岡修造より抜粋")
+<img src="https://media.giphy.com/media/UiZpBJIwdJ34k/giphy.gif" width="300" height="200" />
 
 5. 終末期～持つべきものはやはり友であった～
 
@@ -72,7 +72,7 @@ excerpt: 生活云々
 
 初期から含めば、部屋の確保に3ヵ月弱。この時点で9月半ばであり、これがダメならドイツ迷走記改めノマド留学冒険記になっていたことだろう。
 
-![Welcome](/images/house/Welcome.gif　"Gangstaより抜粋")
+![Welcome](https://media.giphy.com/media/l0MYAQ3cHSfmtJSA8/giphy.gif "https://gph.is/2aDhZtN")
 
 最後に同研究科クラスメイトや実際に体験した各レポートを以下に記したい。
 
