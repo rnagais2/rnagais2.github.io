@@ -7,11 +7,9 @@ header:
 excerpt: 生活云々
 ---
 
-<img src="/images/Octberfest/IMPGa.JPG" width="300" height="">
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/Octberfest/IMPGa.jpg?raw=true">
 
 ミュンヘンはドイツ南部地方にある大都市だ。
-
-
 
 
 スイス、オーストリア、イタリア方面にむかい、オクトーバーフェストの開催地でもある。ドイツ人・オクトーバーフェストでググれば絵に描いたようなドイツ人の写真が沢山出てくる。

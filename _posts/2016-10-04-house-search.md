@@ -22,7 +22,8 @@ excerpt: 生活云々
 
 申し込み欄に「寮の決定には最低でも2,3学期かかります」との文字。もしかして賃貸物件探さないといけないのかしらん?と不安がよぎるも、この世界は自分のために回っているという確信のもとそのまま放置。しばらくは過ごせないであろう日本の夏休みを謳歌することに。
 
-<img src="/images/house/Summer.jpg">
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/house/Summer.jpg?raw=true">
+
 
 2. 中期～ネット検索のはじまり～
 
