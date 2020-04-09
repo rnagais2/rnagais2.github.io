@@ -76,8 +76,6 @@ In der Wohnung befinden sich eine Küche, ein Bad mit Toilette.</p>
 <p>………………………………………<=借りた人の署名</p>
 
 </div>
-![参考資料ダウンロード](/assets/download/Mietvertrag.pdf)
-
 
 
 大家さんのサインのもと提出した。これは特に何事もなく済んだ。
