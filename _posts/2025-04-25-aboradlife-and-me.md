@@ -41,5 +41,6 @@ excerpt: 生活云々
 
 おやすみなさい。
 
-<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/250425/1.jpg?raw=true" width="400" title="レストランで朝食を食べていると、いつも鳴きながらやってくる"><br>
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/250425/1.JPG?raw=true" height = "400" width="400" title="レストランで朝食を食べていると、いつも鳴きながらやってくる"><br>
 (ホテルに居座っている猫)
+
