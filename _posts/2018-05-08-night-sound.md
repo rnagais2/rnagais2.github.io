@@ -41,4 +41,5 @@ excerpt: 生活云々
 ホー、ホー<br>
 <br>
 
-<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/180508/Night.JPG?raw=true" height = "400" width="400"><br>
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/180508/Night.jpg?raw=true" height = "400" width="400"><br>
+
