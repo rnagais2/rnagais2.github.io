@@ -69,4 +69,5 @@ excerpt: 生活云々
 <br>
 <img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/250504/Landcruiser.jpg?raw=true" width="70%"><br>
 <br>
+
 [^1]:1980年代後半からウガンダ北部を拠点に活動を開始した反政府武装勢力
