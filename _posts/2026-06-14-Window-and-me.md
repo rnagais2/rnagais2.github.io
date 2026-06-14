@@ -77,6 +77,5 @@ excerpt: 生活云々
 
 窓の向こう側には一度きりの世界があって、もうそれは記憶の中でしか振り返ることができない。夜、窓を開けると蛙の声が響き渡っていた。<br>
 <br>
-<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/260614/Apartment.jpg?raw=true" width="70%"><br>
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/260614/Apartment.jpeg?raw=true" width="70%"><br>
 <br>
-
