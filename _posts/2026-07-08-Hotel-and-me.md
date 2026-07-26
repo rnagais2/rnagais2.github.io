@@ -126,5 +126,5 @@ excerpt: 生活云々
 
 <br>
 <br>
-<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/260708/Bayani.jpg?raw=true" width="70%"><br>
+<img src="https://github.com/rnagais2/rnagais2.github.io/blob/master/images/260708/Bayani.JPG?raw=true" width="100%"><br>
 <br>
